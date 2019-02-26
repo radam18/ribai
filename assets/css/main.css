@@ -2186,7 +2186,7 @@ input, select, textarea {
 		}
 
 	#menu1 {
-		background: url("images/overlay.png"), url("images/IMG_0685.jpg");
+		background: url("images/overlay.png"), url("/images/IMG_0685.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2194,7 +2194,7 @@ input, select, textarea {
 	}
 
 	#menu2 {
-		background: url("images/overlay.png"), url("images/IMG_0686.jpg");
+		background: url("images/overlay.png"), url("/images/IMG_0686.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2203,7 +2203,7 @@ input, select, textarea {
 /* Two */
 
 	#menu3 {
-		background: url("images/overlay.png"), url("images/IMG_0691.jpg");
+		background: url("images/overlay.png"), url("/images/IMG_0691.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
